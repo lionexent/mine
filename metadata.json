@@ -1,12 +1,7 @@
 {
-    "name": "LIONEX TC",
-    "symbol": "LEON",
-    "description": "Lionex Trading Card Coin",
-    "image": "https://gold-manual-mollusk-339.mypinata.cloud/ipfs/bafkreiasgp5d3wgt567vlwy3534kvuq6hoefpdgqo3antlfyqznesiobnq",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
-    ]
+  "name": "LIONEX TC",
+  "symbol": "LIONEX",
+  "uri": "https://gold-manual-mollusk-339.mypinata.cloud/ipfs/bafkreiasgp5d3wgt567vlwy3534kvuq6hoefpdgqo3antlfyqznesiobnq",
+  "seller_fee_basis_points": 10,
+  "creators": null
 }
